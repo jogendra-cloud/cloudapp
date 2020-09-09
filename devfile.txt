@@ -1,4 +1,4 @@
 hello
 added development code
-:wq
+hello newfile
 
