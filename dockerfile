@@ -1,1 +1,2 @@
-from ubuntu :groovy
+from ubuntu :groov
+hello 
